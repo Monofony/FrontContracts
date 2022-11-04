@@ -25,7 +25,7 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-master": "0.8-dev"
+            "dev-master": "0.9-dev"
         }
     },
     "repositories": [
@@ -35,6 +35,6 @@
         }
     ],
     "require-dev": {
-        "phpstan/phpstan": "^0.12"
+        "phpstan/phpstan": "^1.5"
     }
 }
